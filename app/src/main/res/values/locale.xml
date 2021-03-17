@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="retry">Retry</string>
+    <string name="search_all_the_gifs">Search all the GIFs</string>
+    <string name="incorrect_query">Incorrect query</string>
+</resources>
